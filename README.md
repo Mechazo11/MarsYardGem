@@ -4,7 +4,7 @@
 
 This is the Mars Yard gem, an Asset only gem based on NASA JPL's [Mars Yard]() rover testing fascility. It was created as part of submission for the NASA Space ROS Sim Summer Sprint Challenge 2024. It is part of this O3DE project. 
 
-** TODO** update descriptions here
+**TODO** update descriptions here
 
 
 ## Installation
