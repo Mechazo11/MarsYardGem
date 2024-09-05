@@ -1,0 +1,18 @@
+{
+    "Amazon": {
+        "AssetProcessor": {
+            "Settings": {
+                "ScanFolder MarsYardGem/Assets": {
+                    "watch": "@GEMROOT:MarsYardGem@/Assets",
+                    "recursive": 1,
+                    "order": 101
+                },
+                "ScanFolder MarsYardGem/Registry": {
+                    "watch": "@GEMROOT:MarsYardGem@/Registry",
+                    "recursive": 1,
+                    "order": 102
+                }
+            }
+        }
+    }
+}
