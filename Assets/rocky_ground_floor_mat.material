@@ -1,0 +1,23 @@
+{
+    "description": "rocky_ground_floor",
+    "materialType": "@gemroot:Atom_Feature_Common@/Assets/Materials/Types/StandardPBR.materialtype",
+    "materialTypeVersion": 5,
+    "propertyValues": {
+        "baseColor.color": [
+            0.8381475806236267,
+            0.65200275182724,
+            0.65200275182724,
+            1.0
+        ],
+        "baseColor.textureMap": "Textures/aerial_sand/aerial_sand_diff_4k.jpg",
+        "emissive.color": [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+        ],
+        "opacity.factor": 1.0,
+        "parallax.textureMap": "Textures/aerial_sand/aerial_sand_disp_4k.jpg",
+        "roughness.factor": 0.5
+    }
+}
