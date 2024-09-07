@@ -69,6 +69,35 @@
                         }
                     }
                 },
+                "EditorColliderComponent": {
+                    "$type": "EditorColliderComponent",
+                    "Id": 15376214555992989103,
+                    "ColliderConfiguration": {
+                        "Rotation": [
+                            0.0,
+                            0.0,
+                            0.7071068286895752,
+                            -0.7071067094802856
+                        ],
+                        "MaterialSlots": {
+                            "Slots": [
+                                {
+                                    "Name": "Entire object"
+                                }
+                            ]
+                        }
+                    },
+                    "ShapeConfiguration": {
+                        "ShapeType": 1,
+                        "Box": {
+                            "Configuration": [
+                                36.0,
+                                66.0,
+                                0.10000000149011612
+                            ]
+                        }
+                    }
+                },
                 "EditorDisabledCompositionComponent": {
                     "$type": "EditorDisabledCompositionComponent",
                     "Id": 14491485392494924066
@@ -108,7 +137,8 @@
                                         "MaterialAsset": {
                                             "assetId": {
                                                 "guid": "{8F21A6BC-91FD-5D4B-8A4A-9F8DF2AC6F43}"
-                                            }
+                                            },
+                                            "assetHint": "rocky_ground_floor_mat.azmaterial"
                                         }
                                     }
                                 }
@@ -124,6 +154,10 @@
                     "$type": "EditorPendingCompositionComponent",
                     "Id": 7640455096181976528
                 },
+                "EditorStaticRigidBodyComponent": {
+                    "$type": "EditorStaticRigidBodyComponent",
+                    "Id": 3794753487223698177
+                },
                 "EditorVisibilityComponent": {
                     "$type": "EditorVisibilityComponent",
                     "Id": 14735409348737875969
@@ -131,7 +165,14 @@
                 "TransformComponent": {
                     "$type": "{27F1E1A1-8D9D-4C3B-BD3A-AFB9762449C0} TransformComponent",
                     "Id": 16675788242803705460,
-                    "Parent Entity": "ContainerEntity"
+                    "Parent Entity": "ContainerEntity",
+                    "Transform Data": {
+                        "Translate": [
+                            0.0,
+                            0.013294219970703125,
+                            0.35277557373046875
+                        ]
+                    }
                 }
             }
         }
