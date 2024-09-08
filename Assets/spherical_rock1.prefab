@@ -165,9 +165,25 @@
                     "$type": "EditorPendingCompositionComponent",
                     "Id": 186505394606427151
                 },
-                "EditorStaticRigidBodyComponent": {
-                    "$type": "EditorStaticRigidBodyComponent",
-                    "Id": 13519418116602438497
+                "EditorRigidBodyComponent": {
+                    "$type": "EditorRigidBodyComponent",
+                    "Id": 7243496157706147585,
+                    "Configuration": {
+                        "entityId": "",
+                        "Compute Mass": false,
+                        "Mass": 40.0,
+                        "Inertia tensor": [
+                            3.802499771118164,
+                            0.0,
+                            0.0,
+                            0.0,
+                            3.802499771118164,
+                            0.0,
+                            0.0,
+                            0.0,
+                            3.802499771118164
+                        ]
+                    }
                 },
                 "EditorVisibilityComponent": {
                     "$type": "EditorVisibilityComponent",
