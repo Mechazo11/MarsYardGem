@@ -9,15 +9,17 @@
             0.65200275182724,
             1.0
         ],
-        "baseColor.textureMap": "Textures/aerial_sand/aerial_sand_diff_4k.jpg",
+        "baseColor.textureMap": "Textures/Ground080_1K-JPG/Ground080_1K-JPG_Color.jpg",
         "emissive.color": [
             0.0,
             0.0,
             0.0,
             1.0
         ],
+        "normal.factor": 1.559999942779541,
+        "normal.textureMap": "Textures/Ground080_1K-JPG/Ground080_1K-JPG_NormalGL.jpg",
         "opacity.factor": 1.0,
-        "parallax.textureMap": "Textures/aerial_sand/aerial_sand_disp_4k.jpg",
+        "parallax.factor": 0.032999999821186066,
         "roughness.factor": 0.5
     }
 }

@@ -1,0 +1,24 @@
+{
+    "materialType": "@gemroot:Atom_Feature_Common@/Assets/Materials/Types/StandardPBR.materialtype",
+    "materialTypeVersion": 5,
+    "propertyValues": {
+        "baseColor.color": [
+            0.800000011920929,
+            0.800000011920929,
+            0.800000011920929,
+            1.0
+        ],
+        "baseColor.textureMap": "Textures/Gravel/Ground079S_1K-JPG_Color.jpg",
+        "emissive.color": [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+        ],
+        "normal.textureMap": "Textures/Gravel/Ground079S_1K-JPG_NormalDX.jpg",
+        "opacity.factor": 1.0,
+        "parallax.factor": 0.03999999910593033,
+        "parallax.offset": -0.04800000041723251,
+        "parallax.textureMap": "Textures/Gravel/Ground079S_1K-JPG_Roughness.jpg"
+    }
+}

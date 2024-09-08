@@ -1,0 +1,27 @@
+{
+    "materialType": "@gemroot:Atom_Feature_Common@/Assets/Materials/Types/StandardPBR.materialtype",
+    "materialTypeVersion": 5,
+    "propertyValues": {
+        "baseColor.color": [
+            0.800000011920929,
+            0.800000011920929,
+            0.800000011920929,
+            1.0
+        ],
+        "baseColor.textureMap": "Textures/Ground080_1K-JPG/Ground080_1K-JPG_Color.jpg",
+        "baseColor.textureMapUv": "Unwrapped",
+        "emissive.color": [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+        ],
+        "occlusion.diffuseTextureMap": "Textures/Ground080_1K-JPG/Ground080_1K-JPG_AmbientOcclusion.jpg",
+        "occlusion.diffuseUseTexture": false,
+        "opacity.factor": 1.0,
+        "parallax.textureMap": "Textures/Ground080_1K-JPG/Ground080_1K-JPG_Displacement.jpg",
+        "roughness.factor": 0.5,
+        "roughness.textureMap": "Textures/Ground080_1K-JPG/Ground080_1K-JPG_Roughness.jpg",
+        "specularF0.factor": 1.0
+    }
+}
