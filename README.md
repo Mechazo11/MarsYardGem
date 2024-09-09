@@ -2,19 +2,20 @@
 
 # Mars Yard Gem
 
-This is the Mars Yard gem, an Asset only gem based on NASA JPL's [Mars Yard]() rover testing fascility. It was created as part of submission for the NASA Space ROS Sim Summer Sprint Challenge 2024. It is part of this O3DE project. 
+Author: Azmyin Md. Kamal
+Date: 09/09/2024
+Version: 1.0
 
-**TODO** update descriptions here
-
+This is the Mars Yard gem, an Asset only gem based on NASA JPL's [Mars Yard](https://www-robotics.jpl.nasa.gov/how-we-do-it/facilities/marsyard-iii/) rover testing fascility. It was created as part of submission for the NASA Space ROS Sim Summer Sprint Challenge 2024, Issue [#181](https://github.com/space-ros/docker/issues/181).  
 
 ## Installation
-Please refer to [O3DE documentation](https://docs.o3de.org/docs/user-guide/gems/) to learn more about Gems and about registering Gems in the system and O3DE projects.
+
+**TODO** Commands to register with O3DE engine
+
 
 ## Description
 
-This is an Asset Gem. It contains a 
-
-** TODO** update descriptions here. Mention it was created as part of the NASA Space ROS Sim and will be later incorporated as part of my O3DE RSL library.
+**TODO** update descriptions here. Mention it was created as part of the NASA Space ROS Sim and will be later incorporated as part of my O3DE RSL library.
 
 **TODO** two liner description based on Mars Yard
 
@@ -26,9 +27,15 @@ The warehouse consists of two rooms and some space outside of the building. Plea
 
 
 ## Screenshots
-**TODO**
+
+<p align="left">
+  <img src="preview.png" width="700" height="auto" alt="description">
+</p>
+
 
 ## Acknowledgments
 This work is licensed under [Apache License, Version 2.0][apache]. You may elect at your option to use the [MIT License][mit] instead. Contributions must be made under both licenses.
 
-All pertinent models used are **CC0** licensed.
+[apache]: https://opensource.org/licenses/Apache-2.0
+[mit]: https://opensource.org/licenses/MIT
+[apache_shield]: https://img.shields.io/badge/License-Apache_2.0-blue.svg
