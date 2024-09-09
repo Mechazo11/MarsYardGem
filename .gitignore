@@ -1,2 +1,4 @@
 Assets/fbx/
 Assets/gltf/
+/build/
+/.vscode/

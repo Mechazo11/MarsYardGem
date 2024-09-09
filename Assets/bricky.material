@@ -1,0 +1,28 @@
+{
+    "materialType": "@gemroot:Atom_Feature_Common@/Assets/Materials/Types/StandardPBR.materialtype",
+    "materialTypeVersion": 5,
+    "propertyValues": {
+        "baseColor.color": [
+            0.800000011920929,
+            0.800000011920929,
+            0.800000011920929,
+            1.0
+        ],
+        "baseColor.textureMap": "Textures/Ground079S_1K-JPG_Color.jpg",
+        "emissive.color": [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+        ],
+        "normal.textureMap": "Textures/Rocks008_1K-JPG/Rocks008_1K-JPG_NormalDX.jpg",
+        "opacity.factor": 1.0,
+        "parallax.algorithm": "Relief",
+        "parallax.factor": 0.07400000095367432,
+        "parallax.offset": -0.02199999988079071,
+        "parallax.textureMapUv": "Unwrapped",
+        "roughness.factor": 0.5,
+        "roughness.textureMap": "Textures/Rocks008_1K-JPG/Rocks008_1K-JPG_Roughness.jpg",
+        "uv.tileU": 0.6000000238418579
+    }
+}

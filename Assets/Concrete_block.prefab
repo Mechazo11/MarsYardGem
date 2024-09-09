@@ -1,0 +1,214 @@
+{
+    "ContainerEntity": {
+        "Id": "ContainerEntity",
+        "Name": "Concrete_block",
+        "Components": {
+            "EditorDisabledCompositionComponent": {
+                "$type": "EditorDisabledCompositionComponent",
+                "Id": 12884478659743054229
+            },
+            "EditorEntityIconComponent": {
+                "$type": "EditorEntityIconComponent",
+                "Id": 9330771272163691796
+            },
+            "EditorEntitySortComponent": {
+                "$type": "EditorEntitySortComponent",
+                "Id": 16353233799531436049,
+                "Child Entity Order": [
+                    "Entity_[702482001324]"
+                ]
+            },
+            "EditorInspectorComponent": {
+                "$type": "EditorInspectorComponent",
+                "Id": 15271600491724552553
+            },
+            "EditorLockComponent": {
+                "$type": "EditorLockComponent",
+                "Id": 16135551922749175912
+            },
+            "EditorOnlyEntityComponent": {
+                "$type": "EditorOnlyEntityComponent",
+                "Id": 7093998175381027411
+            },
+            "EditorPendingCompositionComponent": {
+                "$type": "EditorPendingCompositionComponent",
+                "Id": 700082619795578105
+            },
+            "EditorPrefabComponent": {
+                "$type": "EditorPrefabComponent",
+                "Id": 15911259421908674312
+            },
+            "EditorVisibilityComponent": {
+                "$type": "EditorVisibilityComponent",
+                "Id": 12231418375010239381
+            },
+            "TransformComponent": {
+                "$type": "{27F1E1A1-8D9D-4C3B-BD3A-AFB9762449C0} TransformComponent",
+                "Id": 11625847162811695870,
+                "Parent Entity": ""
+            }
+        }
+    },
+    "Entities": {
+        "Entity_[702482001324]": {
+            "Id": "Entity_[702482001324]",
+            "Name": "Concrete_block",
+            "Components": {
+                "AZ::Render::EditorMeshComponent": {
+                    "$type": "AZ::Render::EditorMeshComponent",
+                    "Id": 8365978753749360264,
+                    "Controller": {
+                        "Configuration": {
+                            "ModelAsset": {
+                                "assetId": {
+                                    "guid": "{943253F8-7177-588D-83CA-807327B51DFA}",
+                                    "subId": 283911178
+                                },
+                                "assetHint": "concrete_block.fbx.azmodel"
+                            }
+                        }
+                    }
+                },
+                "EditorColliderComponent": {
+                    "$type": "EditorColliderComponent",
+                    "Id": 12877650635423550511,
+                    "ColliderConfiguration": {
+                        "Rotation": [
+                            0.0,
+                            0.0,
+                            0.7071067690849304,
+                            0.7071067094802856
+                        ],
+                        "MaterialSlots": {
+                            "Slots": [
+                                {
+                                    "Name": "Entire object"
+                                }
+                            ]
+                        }
+                    },
+                    "ShapeConfiguration": {
+                        "ShapeType": 1,
+                        "Box": {
+                            "Scale": [
+                                0.3499999940395355,
+                                0.3499999940395355,
+                                0.3499999940395355
+                            ],
+                            "Configuration": [
+                                3.0,
+                                2.0,
+                                1.5
+                            ]
+                        }
+                    }
+                },
+                "EditorDisabledCompositionComponent": {
+                    "$type": "EditorDisabledCompositionComponent",
+                    "Id": 12023262031033948434
+                },
+                "EditorEntityIconComponent": {
+                    "$type": "EditorEntityIconComponent",
+                    "Id": 6902933665839677954
+                },
+                "EditorEntitySortComponent": {
+                    "$type": "EditorEntitySortComponent",
+                    "Id": 13838502377098710430
+                },
+                "EditorInspectorComponent": {
+                    "$type": "EditorInspectorComponent",
+                    "Id": 7141003749923521154,
+                    "ComponentOrderEntryArray": [
+                        {
+                            "ComponentId": 12833889179489132924
+                        },
+                        {
+                            "ComponentId": 8365978753749360264,
+                            "SortIndex": 1
+                        },
+                        {
+                            "ComponentId": 5493798295271011591,
+                            "SortIndex": 2
+                        },
+                        {
+                            "ComponentId": 12877650635423550511,
+                            "SortIndex": 3
+                        }
+                    ]
+                },
+                "EditorLockComponent": {
+                    "$type": "EditorLockComponent",
+                    "Id": 5125029823526633514
+                },
+                "EditorMaterialComponent": {
+                    "$type": "EditorMaterialComponent",
+                    "Id": 3298238471723079241,
+                    "Controller": {
+                        "Configuration": {
+                            "materials": [
+                                {
+                                    "Key": {
+                                        "materialSlotStableId": 4180107804
+                                    },
+                                    "Value": {
+                                        "MaterialAsset": {
+                                            "assetId": {
+                                                "guid": "{460727A4-453C-57D7-9CBD-948B4FABD496}"
+                                            },
+                                            "assetHint": "concrete_block.azmaterial"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                "EditorOnlyEntityComponent": {
+                    "$type": "EditorOnlyEntityComponent",
+                    "Id": 2579077589898417814
+                },
+                "EditorPendingCompositionComponent": {
+                    "$type": "EditorPendingCompositionComponent",
+                    "Id": 15456549152069161812
+                },
+                "EditorRigidBodyComponent": {
+                    "$type": "EditorRigidBodyComponent",
+                    "Id": 4231170518276209140,
+                    "Configuration": {
+                        "entityId": "",
+                        "Compute Mass": false,
+                        "Mass": 500.0,
+                        "Inertia tensor": [
+                            57.421871185302734,
+                            0.0,
+                            0.0,
+                            0.0,
+                            31.901044845581055,
+                            0.0,
+                            0.0,
+                            0.0,
+                            66.35416412353516
+                        ]
+                    }
+                },
+                "EditorVisibilityComponent": {
+                    "$type": "EditorVisibilityComponent",
+                    "Id": 1902248449137646507
+                },
+                "TransformComponent": {
+                    "$type": "{27F1E1A1-8D9D-4C3B-BD3A-AFB9762449C0} TransformComponent",
+                    "Id": 12833889179489132924,
+                    "Parent Entity": "ContainerEntity",
+                    "Transform Data": {
+                        "Translate": [
+                            -10.702971458435059,
+                            1.8678045272827148,
+                            0.660041093826294
+                        ],
+                        "UniformScale": 0.3499999940395355
+                    }
+                }
+            }
+        }
+    }
+}
