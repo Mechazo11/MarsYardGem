@@ -172,6 +172,10 @@
                     "$type": "EditorPendingCompositionComponent",
                     "Id": 5507283865240821953
                 },
+                "EditorStaticRigidBodyComponent": {
+                    "$type": "EditorStaticRigidBodyComponent",
+                    "Id": 8440508305279219388
+                },
                 "EditorVisibilityComponent": {
                     "$type": "EditorVisibilityComponent",
                     "Id": 13496396194026953207
